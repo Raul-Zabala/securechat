@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Certificates / private keys (DO NOT COMMIT)
+certs/*.pem
+
+# Local Logs
+*.log
